@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "foregazing-executor",
+    "name": "foregazing",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "c6th72odr9"
+  }
+}
