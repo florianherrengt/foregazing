@@ -8,5 +8,5 @@
 
 # Roadmap
 
-[ ] Facebook Messenger
-[ ] Twitter
+- [ ] Facebook Messenger
+- [ ] Twitter
